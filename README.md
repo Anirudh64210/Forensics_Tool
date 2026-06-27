@@ -37,3 +37,13 @@ The project aims to modernize endpoint forensic investigations by automating rep
 ## Scope
 
 The tool is designed for cybersecurity research, forensic analysis, and educational applications involving endpoint monitoring, artifact analysis, and incident response workflows.
+
+## Disclaimer
+
+This project was originally developed in 2023 and reflects the scope, architecture, and implementation state from that period. While the overall concept and forensic workflow remain relevant, several components can be further modernized and extended.
+
+This repository currently contains the portion of the project contributed and maintained by the author, rather than the complete original application. As a result, the repository is not yet fully execution-ready for public deployment or end-to-end usage.
+
+The current version is primarily optimized for Windows environments and Linux, but has not yet been fully adapted or tested for macOS compatibility.
+
+Ongoing work is focused on refactoring, improving compatibility, and packaging the project into a fully executable and reproducible forensic analysis tool for broader accessibility and testing.
